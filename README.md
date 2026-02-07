@@ -10,4 +10,5 @@ JavaScript | React | Node.js | Express | MongoDB | C++ | Tailwind CSS | Bootstra
 • Open to internships & collaborations  
 
 🔗 LinkedIn: https://www.linkedin.com/in/mantukumar22?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
 📧 Email: mantuforwork@gmail.com
