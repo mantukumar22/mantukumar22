@@ -9,6 +9,6 @@ JavaScript | React | Node.js | Express | MongoDB | C++ | Tailwind CSS | Bootstra
 • Practicing DSA daily  
 • Open to internships & collaborations  
 
-🔗 LinkedIn: https://www.linkedin.com/in/mantukumar22?utm_source=share_via&utm_content=profile&utm_medium=member_android
+🔗 LinkedIn: https://www.linkedin.com/in/mantukumar22
 
 📧 Email: mantuforwork@gmail.com
