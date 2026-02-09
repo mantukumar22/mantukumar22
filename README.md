@@ -11,4 +11,4 @@ JavaScript | React | Node.js | Express | MongoDB | C++ | Tailwind CSS | Bootstra
 
 🔗 LinkedIn: https://www.linkedin.com/in/mantukumar22
 
-📧 Email: mantuforwork@gmail.com
+📧  Email:   mantuforwork@gmail.com
