@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Mantu Kumar<br>🎓 BCA Student | 💻 MERN Stack Developer | 📊 DSA in C++<br><br>🔹 Tech Stack: JavaScript | React | Node.js | Express | MongoDB | C++ | Tailwind CSS | Bootstrap<br><br>🔹 Currently: • Building full-stack web projects<br>• Practicing DSA daily<br>• Open to internships & collaborations<br><br>🔗 LinkedIn: https://www.linkedin.com/in/mantukumar22<br><br>📧 Email: mantuforwork@gmail.com
+Hi 👋 I'm Mantu Kumar<br>🎓 BCA Student | 💻 MERN Stack Developer | 📊 DSA in C++<br><br>
 
 
 ## 🌐 Socials:
