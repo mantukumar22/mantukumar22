@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Mantu Kumar<br>🎓 BCA Student | 💻 MERN Stack Developer | 📊 DSA in C++<br><br>
+Hi 👋 I'm Mantu Kumar<br>🎓 BCA Student | 💻 MERN Stack Developer | 📊 DSA in C++<br>
 
 
 ## 🌐 Socials:
