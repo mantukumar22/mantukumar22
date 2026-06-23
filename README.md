@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi 👋 I'm Mantu Kumar<br>🎓 BCA Student | 💻 MERN Stack Developer | 📊 DSA in C++<br>
 
-## PORTFOLIO [ https://portfolio-1-nrrb.onrender.com/ ]
+## PORTFOLIO [https://mantukumar.vercel.app/]
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amritcodes_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mantukumar22) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mantuforwork@gmail.com) 
