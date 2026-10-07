@@ -21,21 +21,21 @@ Currently working on:
 
 🌐 Portfolio: https://mantukumar.vercel.app/
 
-""Instagram" (https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)" (https://instagram.com/amritcodes_)
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)" (https://linkedin.com/in/mantukumar22)
-""Email" (https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)" (mailto:mantuforwork@gmail.com)
+""Instagram" 
+""LinkedIn" 
+""Email" 
 
 ---
 
 🛡️ Cybersecurity
 
-"Linux" (https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-"Kali Linux" (https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-"Burp Suite" (https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-"OWASP" (https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-"Wireshark" (https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-"Nmap" (https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"Linux" 
+"Kali Linux" 
+"Burp Suite" 
+"OWASP" 
+"Wireshark" 
+"Nmap"
+"Python" 
 
 🔍 Security Focus
 
@@ -56,27 +56,27 @@ Currently working on:
 
 💻 Development
 
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-"React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-"Next.js" (https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-"NodeJS" (https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-"Express.js" (https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
-"MongoDB" (https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-"JWT" (https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-"Git" (https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+"HTML5" 
+"CSS3" 
+"JavaScript" 
+"React"
+"Next.js"
+"NodeJS"
+"Express.js"
+"MongoDB"
+"MySQL"
+"JWT"
+"Git"
+"GitHub" 
 
 ---
 
 🤖 AI & GenAI
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"OpenAI" (https://img.shields.io/badge/LLM%20Applications-412991?style=for-the-badge)
-"RAG" (https://img.shields.io/badge/RAG-6C47FF?style=for-the-badge)
-"AI Agents" (https://img.shields.io/badge/AI%20Agents-8A2BE2?style=for-the-badge)
+"Python" 
+"OpenAI" 
+"RAG"
+"AI Agents"
 
 Currently exploring:
 
@@ -93,8 +93,8 @@ Currently exploring:
 
 🧠 Programming & DSA
 
-"C++" (https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"C++" 
+"Python" 
 
 📌 Practicing Data Structures & Algorithms in C++
 
