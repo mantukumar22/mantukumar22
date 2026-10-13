@@ -19,7 +19,7 @@ Currently working on:
 
 🌐 Portfolio & Socials
 
-🌐 Portfolio: https://mantukumar.vercel.app/
+🌐 Portfolio: [https://mantukumar.vercel.app/](https://amritguru-sec.vercel.app/)
 
 ""Instagram" 
 ""LinkedIn" 
